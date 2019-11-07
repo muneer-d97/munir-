@@ -1,0 +1,30 @@
+questions not answered due to poor understanding 
+no 17 
+no 26 
+no 27
+no 28
+no 32-35
+no 46
+no 47 
+no 51-52
+no 68-69
+no 73-76
+no 78-80
+no 84-88
+no 91-100
+arr=arr[::-1] (im having problem understanding what the :: functions as ) 
+
+in no 15 ----> two_darr[1:-1,1:-1]=0 (thats to create an array with 1 on the border and 0 on the inside 
+
+in no 16 i dont understand the method of np.pad
+
+in no 18 ----> z=np.diag(1+np.arange(4), k=-1) i dont underastand the use of the 1+np and the k=_1
+
+in no 21 ----> i dont understand the np.title method 
+
+in no 63 ----> i dont understand the codes
+
+in some of the questions, bincount was used, i dont really understand the bincount 
+in no 71 ----> a= np.ones((5,5,3))
+b= 2*np.ones((5,5))
+product=(a*b[:,:,None])---> i cant understand the presence of "none"
